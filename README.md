@@ -15,7 +15,8 @@ https://s3.amazonaws.com/coursera-uploads/user-26cf3700c129ae04cedd3084/973498/a
 
 The variable names and the description of the variables are included in Codebook.md.
 
-The script for performing the five step data transformation, with detailed explanations for each step, is named: run_analysis.R.
+The script for performing the five step data transformation, with detailed explanations for each step, is named:
+run_analysis.R.
 
 
 ###Here are the five step transformation
