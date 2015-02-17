@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+## Readme for the Getting and Cleaning Data Course Project
 
 ###Introduction
 
